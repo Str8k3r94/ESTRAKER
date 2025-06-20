@@ -1,0 +1,52 @@
+button{
+    display: block;
+    margin: 20px auto;
+    padding: 12px 32px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 420px;
+    height: 55px;
+}
+button:hover {
+    background-color: darkblue;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /*altura total da tela*/
+}body {
+    background-color: #f0f0f000; /* cor de fundo clara */
+}
+ 
+
+.btn-link {
+  display: block;
+    margin: 20px auto;
+    padding: 12px 32px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 420px;
+    height: 55px;
+    text-align: center;
+    text-decoration: none;
+    line-height: 55px;
+}
+.btn-link:hover {
+    background-color: darkblue;
+}
+
+
+
+
+
