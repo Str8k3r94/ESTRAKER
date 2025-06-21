@@ -18,3 +18,9 @@
     margin-top: 20px;
   }
 }
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh; /* altura total da tela */
+}
