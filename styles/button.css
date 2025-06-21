@@ -20,12 +20,12 @@ button:hover {
     justify-content: center;
     align-items: center;
     height: 83vh; /*altura total da tela*/
-}body {
-    background-color: #f0f0f000; /* cor de fundo clara */
-}
+}body 
+     /* cor de fundo clara */
+
  
 
-.btn-link {
+.btn-link, button {
   display: block;
     margin: 20px auto;
     padding: 12px 32px;
