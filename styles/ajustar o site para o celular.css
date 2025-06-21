@@ -1,0 +1,20 @@
+/* Adicione no styles/mobile.css ou no final do seu CSS */
+
+@media (max-width: 600px) {
+  .btn-link, button {
+    width: 90vw;
+    font-size: 1.1rem;
+    padding: 10px 0;
+    height: auto;
+    line-height: normal;
+  }
+  .center {
+    height: auto;
+    padding: 30px 0;
+  }
+  .footer, .creditos {
+    font-size: 1.1rem;
+    padding: 10px;
+    margin-top: 20px;
+  }
+}

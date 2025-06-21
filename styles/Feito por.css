@@ -1,0 +1,33 @@
+/*
+header {
+  background-color: #f0f0f0;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+<footer>
+  <p>Feito por <a href="Feito por Str8k3r
+" target="_blank">Str8k3r</a></p>
+</footer>
+footer {
+  background-color: #f0f0f0;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.creditos {
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    margin-top: 80px;
+    text-align: center;
+}
+.creditos a {
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+}

@@ -19,7 +19,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /*altura total da tela*/
+    height: 83vh; /*altura total da tela*/
 }body {
     background-color: #f0f0f000; /* cor de fundo clara */
 }
@@ -29,7 +29,7 @@ button:hover {
   display: block;
     margin: 20px auto;
     padding: 12px 32px;
-    background-color: blue;
+    background-color:blue;
     color: white;
     border: none;
     border-radius: 8px;
