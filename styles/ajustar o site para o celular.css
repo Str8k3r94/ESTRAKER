@@ -16,11 +16,13 @@
     font-size: 1.1rem;
     padding: 10px;
     margin-top: 20px;
+    background: transparent; /* remove background color */
   }
 }
 .center {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 50vh; /* altura total da tela */
+  height: auto; /* altura total da tela */
+  min-height: 40vh; /* garante que a seção tenha uma altura mínima */
 }
