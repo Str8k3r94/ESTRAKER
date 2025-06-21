@@ -23,11 +23,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: auto; /* altura total da tela */
+  height: 100; /* altura total da tela */
   min-height: 40vh; /* garante que a seção tenha uma altura mínima */
   background-image: url("../images/headerCapa.jpg");
   background-size: cover;
   background-position: center
   background-repeat no-repeat;
   background-color:transparent /* remove background color */
+  box-sizing; border-box: /* garante que o padding e a borda sejam incluídos na largura total */
 }
